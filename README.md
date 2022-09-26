@@ -1,4 +1,5 @@
 # python-scraping
 Python scraping practices with BeautifulSoup and API requests. 
 
-* 100 movies to watch
+* Find 100 Movies To Watch
+* Billboard Hot 100 to your Spotify Playlist
